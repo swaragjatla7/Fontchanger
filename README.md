@@ -6,32 +6,23 @@ Tags: customizer, css, color, colors, colour, colours, fonts, google fonts, loca
 Fontchanger allows you to customize fonts and colors in WordPress themes through the Customizer - no need of any additional code!
 
 == Description ==
-
-Fonts can be easily edited in WordPress themes using the WordPress customizer. Live previews can be seen when desired option is selected.
-
-Fontchanger gives unique look to your website.
-
-Default WordPress themes are fully supported and support for more themes will be added in the future. All other themes can be customized into desired fontstyle.
-
-Fontchanger uses Google fonts to give you a lot of options for personalising your site.
+Without any additional code Fontc ahnger allows you to customise the WordPress themes by Customisable option!
+Using wordpress Customiser font can be edited easily. When desired font and colour is selected preview is seen.
+Fontchanger allows to change font colour and font style gives a unique style to website.
+Default WordPress themes are fully supported and support for more themes can be added in the future. All other themes can be customized into desired fontstyle.
+Fontchanger uses Google fonts. This helps to give various font styles and colours to personalise the website
 
 = Features =
 
 * Choose from a varied selection of the top Google fonts in any theme
 * Additional themes (listed below) support editing colors
-* Filter fonts based on character set - great for non latin languages such as Russian
 * Developer functionality for adding support to other themes, and for adding additional fonts.
 
 = Supported Character Sets =
 
 Fontchanger supports fonts that have a variety of different character sets. This makes selecting a font for your language super easy. The supported character sets are:
 
-* Cyrillic
-* Devanagari
-* Greek
-* Hebrew
-* Latin
-* Vietnamese
+Cyrillic,Devanagari,Greek,Hebrew,Latin, Vietnamese
 
 * Supported Themes *
 
