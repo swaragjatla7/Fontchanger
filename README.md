@@ -24,7 +24,7 @@ Fontchanger uses Google fonts to give you a lot of options for personalising you
 
 = Supported Character Sets =
 
-Styleguide supports fonts that have a variety of different character sets. This makes selecting a font for your language super easy. The supported character sets are:
+Fontchanger supports fonts that have a variety of different character sets. This makes selecting a font for your language super easy. The supported character sets are:
 
 * Cyrillic
 * Devanagari
@@ -49,20 +49,20 @@ Styleguide allows any theme to add support through the `add_theme_support` comma
 
 I have added an example of a basic implementation below. This code would be placed in your themes functions.php
 
-`function prefix_add_styleguide_support() {
+`function prefix_add_Fontchanger_support() {
 
   $properties = array(
 	...
   );
-  add_theme_support( 'styleguide', $properties );
+  add_theme_support( 'Fontchanger', $properties );
 
 }
 
-add_filter( 'after_setup_theme', 'prefix_add_styleguide_support' );`
+add_filter( 'after_setup_theme', 'prefix_add_Fontchanger_support' );`
 
 = Extra Fonts =
 
-Styleguide currently offers developers a filter for adding additional fonts. You can use it as shown below
+Fontchanger currently offers developers a filter for adding additional fonts. You can use it as shown below
 
 `function my_fonts( $font_list ) {
 	$font_list['Cormorant Infant'] = array(
@@ -79,7 +79,7 @@ Styleguide currently offers developers a filter for adding additional fonts. You
 	);
 	return $font_list;
 }
-add_filter( 'styleguide_get_fonts', 'my_fonts' );`
+add_filter( 'Fontchanger_get_fonts', 'my_fonts' );`
 
 *Version*
 = 1.0 =
