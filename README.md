@@ -45,7 +45,7 @@ After downloading and installing the plugin you can go to the Customizer (Appear
 
 = Adding Theme Support =
 
-Styleguide allows any theme to add support through the `add_theme_support` command. For examples check out the theme-styles directory.
+Fontchanger allows any theme to add support through the `add_theme_support` command. For examples check out the theme-styles directory.
 
 I have added an example of a basic implementation below. This code would be placed in your themes functions.php
 
